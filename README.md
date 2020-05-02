@@ -20,3 +20,5 @@ Step 2: Open the folder in IntelliJ IDEA
 Step 3: Run ```Main.java```
 <br>
 Step 4: Enter commands in the console.
+<br>
+(You may need to include ```hsqldb.jar``` as a dependency)
