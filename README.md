@@ -11,6 +11,16 @@ The relationships between tables are:
 - Not every ```Councilor``` has one ```Ward```, and not every ```Ward``` has a ```Councilor```.
 <br>
 
+# Valid queries:
+1. print the names and IDs of all the known wards.
+2. print all the expenses, with associated ward and councilor name.
+3. Print the names of all councilors.
+4. Print total expenses for a specified councilor.
+5. Print total expenses for a specified ward.
+6. Delete a councilor by 'name'.
+7. Delete an Expense by 'id'.
+8. Show the highest single‐time expense for each councilor.
+
 # How to run:
 
 Step 1: Clone or download the project.
@@ -22,14 +32,3 @@ Step 3: Run ```src/Main.java```
 Step 4: Enter commands in the console.
 <br>
 (You may need to include ```hsqldb.jar``` as a dependency)
-<br>
-Valid queries:
-1. print the names and IDs of all the known wards.
-2. print all the expenses, with associated ward and councilor name.
-3. Print the names of all councilors.
-4. Print total expenses for a specified councilor.
-5. Print total expenses for a specified ward.
-6. Delete a councilor by 'name'.
-7. Delete an Expense by 'id'.
-8. Show the highest single‐time expense for each councilor.
-
