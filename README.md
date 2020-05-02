@@ -31,4 +31,4 @@ Step 3: Run ```src/Main.java```
 <br>
 Step 4: Enter commands in the console.
 <br>
-(You may need to include ```hsqldb.jar``` as a dependency)
+(```hsqldb.jar``` may need to be included as a dependency)
