@@ -4,11 +4,12 @@
 The database is to query from the data set of ```Council_Member_Expenses.csv```. 
 <br>
 The relationships between tables are:
-- One to many from ```Councilor``` to ```Expense```
-- One to many from ```Ward``` to ```Councilor```
+- ```Expense``` is a weak entity. 
+- One to many from ```Councilor``` to ```Expense```.
+- One to many from ```Ward``` to ```Councilor```.
+- Each ```Expense``` must belong to one ```Councilor```, but not every ```Councilor``` has an ```Expense```.
+- Not each ```Councilor``` has one ```Ward```, and not every ```Ward``` has a ```Councilor```.
 <br>
-
-
 
 # How to run:
 
