@@ -1,11 +1,11 @@
 # MySQL-For-Council-Member-Expenses
 
-#Idea:#
+#Idea:
 The database is to query from the data set of ```Council_Member_Expenses.csv```. 
 <br>
 
 
-#How to run:#
+#How to run:
 
 Step 1: Clone or download the project.
 <br>
