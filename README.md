@@ -1,7 +1,7 @@
 # MySQL-For-Council-Member-Expenses
 
 # Idea:
-The database is to query from the data set of ```Council_Member_Expenses.csv```, which was obtained from [City of Winnipeg Open Data Portal](https://data.winnipeg.ca/)
+The database is to query from the dataset of ```Council_Member_Expenses.csv```, which was obtained from [City of Winnipeg Open Data Portal](https://data.winnipeg.ca/)
 <br>
 The definition of the database is:
 - There are 3 entities: ```Expense```, `Councilor` and `Ward`. ```Expense``` is a weak entity. 
