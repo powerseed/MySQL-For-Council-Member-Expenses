@@ -1,5 +1,3 @@
-# MySQL-For-Council-Member-Expenses
-
 # Idea:
 The database is to query from the dataset of ```Council_Member_Expenses.csv```, which was obtained from [City of Winnipeg Open Data Portal](https://data.winnipeg.ca/)
 <br>
