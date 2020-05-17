@@ -20,8 +20,8 @@ The definition of the database is:
 8. Show the highest single‐time expense for each councilor.
 
 # How to run:
-Step 3: Run ```src/Main.java```
+Step 1: Run ```src/Main.java```
 <br>
-Step 4: Enter commands in the console.
+Step 2: Enter commands in the console.
 <br>
 (```hsqldb.jar``` may need to be included as a dependency)
